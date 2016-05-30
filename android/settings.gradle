@@ -1,0 +1,3 @@
+rootProject.name = 'RNMoviesApp'
+
+include ':app'
